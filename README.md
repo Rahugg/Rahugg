@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my project: 'Anisearch'
+- 🌱 I’m currently learning React JS
+- 🤔 I’m looking for help with internships
+- 💬 Ask me about coding on React JS
+- 📫 How to reach me: 
+Link to [LinkedIn](https://www.linkedin.com/in/amanbek-faizolla/)
+Link to [Instagram](https://www.instagram.com/_faaraday_/)
 <!--
 **Rahugg/Rahugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
