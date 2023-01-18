@@ -2,8 +2,7 @@
 
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/amanbek-faizolla/))
-&nbsp;
+https://www.linkedin.com/in/amanbek-faizolla/
 Link to [Instagram](https://www.instagram.com/_faaraday_/)
 <!--
 **Rahugg/Rahugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
