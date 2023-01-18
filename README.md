@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my project: 'Anisearch'
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Golang
 - 🤔 I’m looking for help with internships
-- 💬 Ask me about coding on React JS
 - 📫 How to reach me: 
 Link to [LinkedIn](https://www.linkedin.com/in/amanbek-faizolla/)
 Link to [Instagram](https://www.instagram.com/_faaraday_/)
