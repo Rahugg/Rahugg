@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Golang
-- 🤔 I’m looking for help with internships
 - 📫 How to reach me: 
-Link to [LinkedIn](https://www.linkedin.com/in/amanbek-faizolla/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/amanbek-faizolla/))
+&nbsp;
 Link to [Instagram](https://www.instagram.com/_faaraday_/)
 <!--
 **Rahugg/Rahugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
