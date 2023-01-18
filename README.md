@@ -1,7 +1,7 @@
 ### Hi! 👋
-- I am Amanbek Faizolla, currently student at KBTU<br />
-- 🌱 I’m currently learning Golang<br /> 
-- 📍Almaty, Kazakhstan <br />
+I am Amanbek Faizolla, currently student at KBTU<br />
+🌱 I’m currently learning Golang<br />
+📍Almaty, Kazakhstan <br />
 
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanbek-faizolla/)
 <!--
