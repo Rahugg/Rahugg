@@ -1,7 +1,5 @@
 ### Hi! 👋
-I am Amanbek Faizolla, currently student at KBTU<br />
-
-🌱 I’m currently learning Golang<br />
+I am Amanbek Faizolla, currently a student at KBTU<br />
 
 📍Almaty, Kazakhstan <br />
 
