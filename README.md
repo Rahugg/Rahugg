@@ -2,6 +2,8 @@
 
 I'm Amanbek Faizolla, a dedicated student currently pursuing my education at KBTU in Almaty, Kazakhstan. I'm passionate about technology and love to explore various programming languages and frameworks to create innovative solutions.
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Rahugg)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ## About Me
 
 - 📍 Location: Almaty, Kazakhstan
